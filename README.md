@@ -1,4 +1,4 @@
-# Data-Science-in-Python-for-advanced-beginners
+# Data Science in Python for Advanced Beginners
 ## aka "Learning Data Science by Doing Data Science and Failing Repeatedly"
 
 
@@ -30,7 +30,7 @@ def expand_knowledgebase(resourses):
          Step 2. Find a real life data set and create a simplified subset of it (sandbox data set).
          Step 3. Find out using resourses how this problem is typically solved.
          Step 4. Play with the sandbox data set until the problem is solved. 
-         Step 5. Find out how the problem actually should be solved. Solve it more efficiently. Apply to the actual data set.
+         Step 5. Find out how the problem actually should be solved. Solve it more efficiently.
          Step 6. Tell other PyLadies about the problem, give them the sandbox set and let them try Step 4.  
          Step 7. Profit! 
       difficulty +=1

@@ -3,7 +3,7 @@
  
  The plan to take over the world:
 
-resources = {collection of all all python for data science websites, books, online course, podcasts}
+resources = {python websites, data science websites, books, online courses, podcasts}
 
 collect(recourses)
 

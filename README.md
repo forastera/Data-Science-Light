@@ -18,15 +18,17 @@ def expand_knowledgebase(resourses):
    difficulty = easy
    
    while (Anna!= "data scientist"): 
-      if difficulty >= hard:
+      if difficulty == hard:
          Anna = "data scientist"
          break
+         print "Congratulations!"
       else:
-         Step 1. Find a small real life data science problem or a data set.
-         Step 3. Come up with a simple question for that data set that requires statistics or machine learning to answer.  
+         Step 1. Find a small real life data set.
+         Step 3. Come up with a simple question or a problem for this data set
          Step 4. Find out in ressourses how it is typically done.
-         Step 4. Create a sandbox data set and play with it until the question is answered.
-         Step 5. Tell other people about the problem, give them the data set and let them try it out.
-         Step 5. Profit!
-         difficulty +=1
+         Step 5. Create a sandbox data set and play with it until the question is answered.
+         Step 6. Tell other people about the problem, give them the same data set and let them try it out.
+         Step 7. Profit!
+         
+      difficulty +=1
 ```

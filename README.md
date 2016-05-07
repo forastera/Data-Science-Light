@@ -3,13 +3,13 @@
 
 ##The plan to take over the world:
 
-###resources = {python websites, data science websites, books, online courses, podcasts}
-###def knowledgebase:
-   ###collect(recourses)
-   ###post_online(recourses)
-   ###discuss_w_pyladies(recourses)
-   ###rank(recourses)
-   ###append_new(recourses)
+resources = {python websites, data science websites, books, online courses, podcasts}
+def expand_knowledgebase(resourses):
+   collect(resourses)
+   post_online(resourses)
+   discuss_w_pyladies(resourses)
+   rank(resourses)
+   append_new(resourses)
 
    while (Anna!=data_scientist): 
       difficulty = easy

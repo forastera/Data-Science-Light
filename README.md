@@ -1,10 +1,10 @@
 # Data-Science-in-Python-for-advanced-beginners
 ## or possibly "Learning Data Science by Failing Repeatedly"
 
-###The plan to take over the world:
-
-resources = {python websites, data science websites, books, online courses, podcasts}
+###\#The plan to take over the world:
 ```
+resources = {python websites, data science websites, books, online courses, podcasts}
+
 def expand_knowledgebase(resourses):
    collect(resourses)
    post_online(resourses)

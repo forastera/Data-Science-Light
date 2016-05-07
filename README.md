@@ -4,11 +4,17 @@
  The plan to take over the world:
 
 resources = {collection of all all python for data science websites, books, online course, podcasts}
+
 collect(recourses)
+
 post_online(recourses)
+
 discuss_w_pyladies(recourses)
+
 rank(recourses)
+
 append_new(recourses)
+
 
 while (Anna!=data_scientist): 
    difficulty = easy

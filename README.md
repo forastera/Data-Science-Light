@@ -3,7 +3,8 @@
 
 
 ```
-###\#The plan to take over the world:
+# The plan to take over the world:
+
 resources = {python websites, data science websites, books, online courses, podcasts}
 
 def expand_knowledgebase(resourses):

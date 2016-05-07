@@ -1,5 +1,5 @@
 # Data-Science-in-Python-for-advanced-beginners
-## or possibly "Learning Data Science by Failing Repeatedly"
+## aka "Learning Data Science by Doing Data Science and Failing Repeatedly"
 
 
 ```

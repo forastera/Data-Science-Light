@@ -1,5 +1,6 @@
 # Data-Science-in-Python-for-advanced-beginners
- or possibly "Learning Data Science by Failing Repeatedly
+ or possibly #"Learning Data Science by Failing Repeatedly"
+ 
  The plan to take over the world:
 
 resources = {collection of all all python for data science websites, books, online course, podcasts}

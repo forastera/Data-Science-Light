@@ -3,13 +3,13 @@
 
 
 ```
-# The plan to take over the world:
+# Anna's plan to take over the world:
 
 resources = ["python tutorials", "data science websites", "online courses", "books", "podcasts"]
 
 def expand_knowledgebase(resourses):
 
-   collect(resourses)
+   collect(resourses) # done 
    post_online(resourses)
    discuss_w_pyladies(resourses)
    append_new(resourses)

@@ -2,9 +2,9 @@
 ## or possibly "Learning Data Science by Failing Repeatedly"
 
 ###The plan to take over the world:
-'''
+
 resources = {python websites, data science websites, books, online courses, podcasts}
-'''
+```
 def expand_knowledgebase(resourses):
    collect(resourses)
    post_online(resourses)
@@ -21,3 +21,4 @@ def expand_knowledgebase(resourses):
       Step 5. Tell other people about the problem, give them the data set and let them try it out.
       Step 5. Profit!
       difficulty +=1
+```

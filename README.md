@@ -3,7 +3,7 @@
 
 
 ```
-# Anna's plan to take over the world:
+# The plan to take over the world:
 
 resources = ["python tutorials", "data science websites", "online courses", "books", "podcasts"]
 

@@ -1,5 +1,5 @@
-# Congratulations! You've just been hired to lead the data science efforts at DataSciencester, 
-# the social network for data scientists.
+# Congratulations! 
+# You've just been hired to lead the data science efforts at DataSciencester, the social network for data scientists.
 # This is what the network looks like:
 
 users = [
@@ -17,8 +17,8 @@ users = [
 
 # As a data scientist, you know that you might enjoy meeting users with similar interests.
 # Your task is to find out which users have the same interests. 
-# Question: who has the most interest in common with a given user?
-# Here's a list of iser ids and their interests:
+# Question: what interests do users share?
+# Here's a list of iser ids and their respective interests:
 
 interests = [
   (0, "Hadoop"), (0, "Big Data"), (0, "Spark"),
@@ -34,7 +34,9 @@ interests = [
 ]
 
 # Step 1: build a function that finds users with a certain interest
-# hint: it's better to use an index, as in key value pairs (data structures: dictionary, defaultdict)
+# (hint: it's better to use an index, as in key value pairs (data structures: dictionary, defaultdict))
 # Step 2: iterate over the user's interests: for each interest, iterate over the other users with that interest
-# keep count of how many times we see each other user
-# Print out the final list of users and their interests
+# Step 3: keep count of how many times we see each other user
+# Step 4: Print out each interest and all the users that have this interest in common 
+# (optional) use a counter to find out which interest comes up most often. 
+# (optional )Print out the list of interests in descending order of frequency.

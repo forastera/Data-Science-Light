@@ -10,10 +10,10 @@ resources = ["python tutorials", "data science websites", "online courses", "boo
 def expand_knowledgebase(resourses):
 
    collect(resourses) # done 
-   post_online(resourses)
-   discuss_w_pyladies(resourses)
-   append_new(resourses)
-   rank(resourses)
+   post_online(resources)
+   discuss_w_pyladies(resources)
+   append_new(resources)
+   rank(resources)
   
    easy = 0
    hard = 100

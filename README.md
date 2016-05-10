@@ -18,11 +18,11 @@ def expand_knowledgebase(resourses):
    easy = 0
    hard = 100
    difficulty = easy
-   Anna = "Advanced Beginner"
+   You = "Advanced Beginner"
    
-   while (Anna!= "data scientist"): 
+   while (You != "Data Scientist"): 
       if difficulty == hard:
-         Anna = "data scientist"
+         You = "data scientist"
          break
          print "Congratulations!"
       else:
@@ -35,3 +35,6 @@ def expand_knowledgebase(resourses):
          Step 7. Profit! 
       difficulty +=1
 ```
+
+
+

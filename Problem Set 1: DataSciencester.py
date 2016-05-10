@@ -40,3 +40,6 @@ interests = [
 # Step 4: Print out each interest and all the users that have this interest in common 
 # (optional) Use a counter to find out which interest comes up most often. 
 # (optional) Print out the list of interests in descending order of frequency.
+
+
+# your solution:

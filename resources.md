@@ -14,7 +14,6 @@ https://trello.com/b/rbpEfMld/data-science
 
 https://www.springboard.com/learning-paths/data-analysis/learn/?
 
-
 http://treycausey.com/data_science_interviews.html?__s=puzspf7v1ed4m1npcn65
 
 Podcasts
@@ -23,6 +22,13 @@ https://www.springboard.com/resources/data-science-podcasts-newsletters/
 
 Becoming a Data Scientist podcast: http://www.becomingadatascientist.com/category/podcast/
 
+Github crashcourse:
+
+https://try.github.io/levels/1/challenges/1
+
+https://teamtreehouse.com/library/git-basics/working-with-remote-repositories/github
+
+https://guides.github.com/introduction/flow/
 
 Python Resources:
 
@@ -39,7 +45,6 @@ https://github.com/swcarpentry/python-novice-gapminder
 https://learnxinyminutes.com/docs/python/
 
 http://interactivepython.org/runestone/static/thinkcspy/toc.html
-
 
 
 Online Courses w/ Data Science Certificates:

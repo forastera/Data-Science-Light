@@ -23,7 +23,7 @@ def expand_knowledgebase(resourses):
    
    while (You != "Data Scientist"): 
       if difficulty == hard:
-         You = "data scientist"
+         You = "Data Scientist"
          break
          print "Congratulations!"
       else:

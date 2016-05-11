@@ -7,9 +7,9 @@
 
 resources = ["python tutorials", "data science websites", "online courses", "books", "podcasts"]
 
-def expand_knowledgebase(resourses):
+def expand_knowledgebase(resources):
 
-   collect(resourses) # done 
+   collect(resources) # done 
    post_online(resources) #done
    discuss_w_pyladies(resources) 
    append_new(resources)

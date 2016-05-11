@@ -38,6 +38,8 @@ https://www.codeschool.com/learn/python
 
 http://learnpythonthehardway.org/
 
+http://www.pythontutor.com/
+
 https://github.com/forastera/data-science-from-scratch
 
 https://github.com/swcarpentry/python-novice-gapminder

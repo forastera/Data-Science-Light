@@ -19,6 +19,7 @@ def expand_knowledgebase(resourses):
    hard = 100
    difficulty = easy
    You = "Advanced Beginner"
+   step0 = "install and learn the basic tools like github, sublime text, Jupyter, ..."
    
    while (You != "Data Scientist"): 
       if difficulty == hard:

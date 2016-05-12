@@ -14,7 +14,6 @@ https://trello.com/b/rbpEfMld/data-science
 
 https://www.springboard.com/learning-paths/data-analysis/learn/?
 
-
 http://treycausey.com/data_science_interviews.html?__s=puzspf7v1ed4m1npcn65
 
 Podcasts
@@ -23,6 +22,15 @@ https://www.springboard.com/resources/data-science-podcasts-newsletters/
 
 Becoming a Data Scientist podcast: http://www.becomingadatascientist.com/category/podcast/
 
+Tools (github, sublime text, jupyter)
+
+https://teamtreehouse.com/library/git-basics/working-with-remote-repositories/github
+
+ https://guides.github.com/introduction/flow/
+
+http://jupyter.readthedocs.org/en/latest/install.html#existing-python-new-jupyter
+
+https://www.sublimetext.com/3
 
 Python Resources:
 

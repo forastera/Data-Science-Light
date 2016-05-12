@@ -39,7 +39,7 @@ def expand_knowledgebase(resources):
             Step 6.2: Pick the best one (the simplest one that works).
             Step 6.3: Post the best solution online.
          Step 7. Profit (the winner gets a small prize)! 
-      difficulty +=1
+         difficulty +=1
       
       
       

@@ -21,7 +21,7 @@ def expand_knowledgebase(resources):
    You = "Advanced Beginner"
    PyLadies_meetup = "Wednesdays biweekly"
    
-   # step 0 will only be repeated once for every beginner 
+   # step_0 will only be repeated once for every beginner 
    step_0 = "install and learn the basic tools like Git/GitHub, Sublime text, Jupyter, ..."
    
    # steps 1-7 will be repeated for every PyLadies meetup

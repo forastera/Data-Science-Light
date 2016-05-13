@@ -19,7 +19,7 @@ def expand_knowledgebase(resources):
    hard = 100
    difficulty = easy
    You = "Advanced Beginner"
-   PyLadies_meetup = "Wednesday"
+   PyLadies_meetup = "Wednesdays biweekly"
    Step_0 = "install and learn the basic tools like Git/GitHub, Sublime text, Jupyter, ..."
    
    while (You != "Data Scientist"): 

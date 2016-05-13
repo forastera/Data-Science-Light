@@ -1,7 +1,6 @@
 # Data Science in Python for Advanced Beginners
 ## aka "Learning Data Science by Doing Data Science and Failing Repeatedly"
 
-
 ```
 # The plan to take over the world:
 
@@ -14,32 +13,47 @@ def expand_knowledgebase(resources):
    discuss_w_pyladies(resources) 
    append_new(resources)
    rank(resources)
-  
+   
+   # defining some variables
    easy = 0
    hard = 100
    difficulty = easy
    You = "Advanced Beginner"
    PyLadies_meetup = "Wednesdays biweekly"
-   Step_0 = "install and learn the basic tools like Git/GitHub, Sublime text, Jupyter, ..."
    
+   # step 0 will only be repeated once for every beginner 
+   step_0 = "install and learn the basic tools like Git/GitHub, Sublime text, Jupyter, ..."
+   
+   # steps 1-7 will be repeated for every PyLadies meetup
+   steps = [
+            "Define a data science problem to solve",
+            "Create a toy data set",
+            "Using resources, find out how this problem is typically solved",
+            "Create your own solution for the problem using the toy data set",
+            "At the PyLadies meetup: \
+                      Tell other PyLadies about the problem \
+                      Give them your toy data set and let them try steps 2 and 3", 
+            "At the PyLadies meetup + 2 weeks: \
+                      Collect all solutions \
+                      Pick the best one (the most understandable for a beginner) \
+                      Post the best solution online",
+            "Profit (the winner gets a small prize)!"
+         ]
+         
+         
    while (You != "Data Scientist"): 
       if difficulty == hard:
          You = "Data Scientist"
          print "Congratulations!"
       else:
-         Step 1. Define a data science problem to solve for the given difficulty level.
-         Step 2. Find a real life data set and create a simplified subset of it (toy data set).
-         Step 3. Find out using resources how this problem is typically solved.
-         Step 4. Play with the toy data set until the problem is solved. 
-         Step 5. At the PyLadies meetup:
-            Step 5.1: Tell other PyLadies about the problem 
-            Step 5.2: Give them your toy data set and let them try Step 4.  
-         Step 6. At the PyLadies meetup + 2 weeks:
-            Step 6.1: Collect all solutions
-            Step 6.2: Pick the best one (the simplest one that works).
-            Step 6.3: Post the best solution online.
-         Step 7. Profit (the winner gets a small prize)! 
+         for each d in difficulty:
+            print "Difficulty: %s" % difficulty
+            for each s in steps:
+               my_steps = steps[s]
+               print "Step %d" % s, ": %s", % my_steps
          difficulty +=1
+         
+      
       
       
       

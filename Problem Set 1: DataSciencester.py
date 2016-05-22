@@ -28,7 +28,7 @@ interests = [
   (4, "machine learning"), (4, "regression"), (4, "decision trees"),
   (5, "R"), (5, "Python"), (5, "statistics"),
   (6, "probability"), (6, "mathematics"), (6, "machine learning"),
-  (7, "machine learning"), (7, "scikit-learn"), (7, neural networks),
+  (7, "machine learning"), (7, "scikit-learn"), (7, "neural networks"),
   (8, "Big Data"), (8, "artificial intelligence"), (8, "hadoop"),
   (9, "Java"), (9, "MapReduce"), (9, "Big Data")
 ]

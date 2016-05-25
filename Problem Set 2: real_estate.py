@@ -10,6 +10,9 @@
 # hint 1: see lists in Python
 # your code goes here:
 
+one_bed = [920, 855, 850]
+two_bed = [1295,1150,1190]
+
 # Step 2: calculate the sum of prices in each list (see sum in Python)
 # hint 2: see sum() in Python
 # your code goes here:

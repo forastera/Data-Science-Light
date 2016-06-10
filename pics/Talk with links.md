@@ -31,7 +31,7 @@
     
 ####	But wait, isn't it more than just Python? R vs Python 
 http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html
-
+![pythonvsr](https://github.com/forastera/Data-Science-Light/blob/master/pics/Epic%20rap%20battle%20Python%20vs%20R%20who%20pays%20more%3F.png)
 ####	Data Science isn't one person, it's a team with a lot of tools:
 http://www.kdnuggets.com/2016/04/building-effective-citizens-data-scientist-teams.html
 

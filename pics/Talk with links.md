@@ -1,7 +1,7 @@
 ##	Links used in the talk
 
 ####	Motivational quotes for learning data science:
-  [Tim O’Reilly and Arthur Conan Doyleon Data Science](https://www.springboard.com/blog/41-shareable-data-quotes/)
+  [Tim O’Reilly and Arthur Conan Doyle on Data Science](https://www.springboard.com/blog/41-shareable-data-quotes/)
     :smile:
 ####	What's the definition of Data Scientist?
 	>Josh Will's definition:

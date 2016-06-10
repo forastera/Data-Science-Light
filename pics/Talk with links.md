@@ -47,7 +47,7 @@ http://www.liesdamnedlies.com/2015/06/the-seven-people-you-need-on-your-data-tea
 https://www.linkedin.com/pulse/how-become-data-scientist-free-zeeshan-ul-hassan-usmani
 
 ####	Profit!
-
+![danger](https://github.com/forastera/Data-Science-Light/blob/master/pics/Dangers%20of%20Big%20Data%20Part%202.png)
 
 
 

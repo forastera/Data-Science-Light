@@ -1,4 +1,4 @@
-##	Links used in the talk
+##	Talk with links and pics
 
 ####	Motivational quotes for learning data science:
 ![quotes](https://github.com/forastera/Data-Science-Light/blob/master/pics/Why%20Data%20Science%3F.png)

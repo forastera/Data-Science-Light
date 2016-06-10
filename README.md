@@ -2,7 +2,9 @@
 ## aka "Learning Data Science by Doing Data Science and Failing Repeatedly"
 
 ```
-# The plan to take over the world:
+# The plan to take over the world: do data science (organic, low fat version) with Python.
+# You may want to start by looking at the list of resources we compiled.
+# Feel free to jump right in and do the Problem Set excercises. We won't judge (much).
 
 resources = ["python tutorials", "data science websites", "online courses", "books", "podcasts"]
 

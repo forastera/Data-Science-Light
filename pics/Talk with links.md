@@ -34,6 +34,8 @@ http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html
 ![pythonvsr](https://github.com/forastera/Data-Science-Light/blob/master/pics/Epic%20rap%20battle%20Python%20vs%20R%20who%20pays%20more%3F.png)
 ####	Data Science isn't one person, it's a team with a lot of tools:
 http://www.kdnuggets.com/2016/04/building-effective-citizens-data-scientist-teams.html
+![table](https://github.com/forastera/Data-Science-Light/blob/master/pics/Sitting%20at%20the%20same%20table.png)
+
 
 ####	Seven people you need on the data science team
 http://www.liesdamnedlies.com/2015/06/the-seven-people-you-need-on-your-data-team.html

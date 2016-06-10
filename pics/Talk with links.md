@@ -1,7 +1,9 @@
 ##	Links used in the talk
 
 ####	Motivational quotes for learning data science:
-[Tim O’Reilly and Arthur Conan Doyle on Data Science](https://www.springboard.com/blog/41-shareable-data-quotes/)
+![quotes](https://github.com/forastera/Data-Science-Light/blob/master/pics/Why%20Data%20Science%3F.png)
+
+[More here](https://www.springboard.com/blog/41-shareable-data-quotes/)
     :smile:
 ####	What's the definition of Data Scientist?
 	>Josh Will's definition:
@@ -11,6 +13,7 @@
 	>(c)pinned tweet.
   
 ####	How do software engineers or STEM scientists become Data Scientists?
+
 [Data Wrangler Model Jockey Data Scientist](http://www.datasciencecentral.com/profiles/blogs/the-new-rules-for-becoming-a-data-scientist/)
 	
 ####	An Interview with Mike Tamir of Galvanize U: What it Takes to Become a Data Scientist:

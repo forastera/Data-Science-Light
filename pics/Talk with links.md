@@ -42,7 +42,7 @@ http://www.liesdamnedlies.com/2015/06/the-seven-people-you-need-on-your-data-tea
 	
 ####	You can pay a lot of money to become a data scientist...
 #####	[Comprehensive list of Data Science programs](http://www.datasciencecentral.com/profiles/blogs/data-science-graduate-programs-website)
-
+![forscience](https://github.com/forastera/Data-Science-Light/blob/master/pics/PuttingScienceInDataScience.png)
 ####...or not:	
 https://www.linkedin.com/pulse/how-become-data-scientist-free-zeeshan-ul-hassan-usmani
 

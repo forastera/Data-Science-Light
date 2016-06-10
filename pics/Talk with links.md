@@ -13,8 +13,8 @@
 	>(c)pinned tweet.
   
 ####	How do software engineers or STEM scientists become Data Scientists?
-
-[Data Wrangler Model Jockey Data Scientist](http://www.datasciencecentral.com/profiles/blogs/the-new-rules-for-becoming-a-data-scientist/)
+![DataScientist](https://github.com/forastera/Data-Science-Light/blob/master/pics/How%20do%20you%20become%20a%20Data%20Scientist%3F.png)
+[from](http://www.datasciencecentral.com/profiles/blogs/the-new-rules-for-becoming-a-data-scientist/)
 	
 ####	An Interview with Mike Tamir of Galvanize U: What it Takes to Become a Data Scientist:
 [Learning by doing Data Science for about 6 months](http://www.mastersindatascience.org/blog/mike-tamir-interview/) 

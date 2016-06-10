@@ -1,7 +1,7 @@
 ##	Links used in the talk
 
 ####	Motivational quotes for learning data science:
-  https://www.springboard.com/blog/41-shareable-data-quotes/
+  [Tim O’Reilly and Arthur Conan Doyleon Data Science](https://www.springboard.com/blog/41-shareable-data-quotes/)
     :smile:
 ####	What's the definition of Data Scientist?
 	>Josh Will's definition:
@@ -10,12 +10,11 @@
 	>and better at software engineering than any statistician. 
 	>(c)pinned tweet.
   
-####	Data Wrangler < Model Jockey < Data Scientist
-	http://www.datasciencecentral.com/profiles/blogs/the-new-rules-for-becoming-a-data-scientist
+####	How do software engineers or STEM scientists become Data Scientists?
+	[Data Wrangler < Model Jockey < Data Scientist](http://www.datasciencecentral.com/profiles/blogs/the-new-rules-for-becoming-a-data-scientist/)
 	
 ####	An Interview with Mike Tamir of Galvanize U: What it Takes to Become a Data Scientist:
-	_tl;dr_: it's learning by doing for about 6 months
-	http://www.mastersindatascience.org/blog/mike-tamir-interview/ 
+	[_tl;dr_: it's learning by doing for about 6 months](http://www.mastersindatascience.org/blog/mike-tamir-interview/) 
 
 ####	Anna's personal experiences with Data Science learning resources, told in Sherlock gifs:
 
@@ -28,17 +27,15 @@
     	[Machine Learning Courses rarely deal with natural language processing](http://66.media.tumblr.com/tumblr_lq0a9xg0N91qlq05h.gif)
     
 ####	But wait, isn't it more than just Python?
-	http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html
+	[R vs. Python](http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html)
 
-####	Data Science isn't one person, it's a team and it's a lot of tools:
-	http://www.kdnuggets.com/2016/04/building-effective-citizens-data-scientist-teams.html
-	
-	http://www.liesdamnedlies.com/2015/06/the-seven-people-you-need-on-your-data-team.html
+####	Data Science isn't one person, it's a team with a lot of tools:
+	[Citizen Scientists at the same table](http://www.kdnuggets.com/2016/04/building-effective-citizens-data-scientist-teams.html)
+	[Seven people you need on the data science team](http://www.liesdamnedlies.com/2015/06/the-seven-people-you-need-on-your-data-team.html)
 	
 ####	You can pay a lot of money to become a data scientist:
-	http://www.datasciencecentral.com/profiles/blogs/data-science-graduate-programs-website
-	[...or not:]
-	(https://www.linkedin.com/pulse/how-become-data-scientist-free-zeeshan-ul-hassan-usmani)
+	[list of Data Science programs](http://www.datasciencecentral.com/profiles/blogs/data-science-graduate-programs-website)
+	[...or not:](https://www.linkedin.com/pulse/how-become-data-scientist-free-zeeshan-ul-hassan-usmani)
 	
 ####	Profit!
 

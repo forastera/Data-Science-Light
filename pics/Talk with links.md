@@ -17,16 +17,12 @@
 	[Learning by doing for about 6 months](http://www.mastersindatascience.org/blog/mike-tamir-interview/) 
 
 ####	Anna's personal experiences with Data Science learning resources, told in Sherlock gifs:
-
 	[At the beginning, it was confusing](http://66.media.tumblr.com/tumblr_lq0a6mz5Oh1qlq05h.gif)
-    
     	[Books are not up to date, actual coding is important](http://67.media.tumblr.com/tumblr_lq0a89SonA1qlq05h.gif)
-    
     	[Codeacademy Python course is great at the beginning](http://66.media.tumblr.com/tumblr_lq06jkuxJq1qlq05h.gif)
-    
     	[Machine Learning Courses rarely deal with natural language processing](http://66.media.tumblr.com/tumblr_lq0a9xg0N91qlq05h.gif)
     
-####	But wait, isn't it more than just Python?
+####	But wait, isn't it more than just Python?	
 	[R vs Python](http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html)
 
 ####	Data Science isn't one person, it's a team with a lot of tools:

@@ -30,6 +30,16 @@ https://teamtreehouse.com/library/git-basics/working-with-remote-repositories/gi
 
 https://guides.github.com/introduction/flow/
 
+Getting into development:
+
+https://gist.github.com/willingc/9f9612fc1a6209e39aefef3825702c80
+
+Notebooks:
+
+https://github.com/kmahelona/ipython_notebook_goodies
+
+https://gist.github.com/willingc/314eb1e20679ad33633a7cc75977a43a
+
 Python Resources:
 
 https://www.python.org/about/gettingstarted/
